@@ -1,1 +1,1 @@
-# SI_Calculator
+# Simple Interest Calculator
